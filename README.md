@@ -21,8 +21,8 @@ The main objective is to standardize and merge multiple sources of pricing infor
 	•	Identified common columns across datasets (payer names, code types, billing codes, and hospital IDs) to enable accurate merging<br>
 	•	Merged datasets while preserving the necessary pricing and hospital-related attributes<br>
 
-**Next Steps and Further Improvements**
-Given more time, potential improvements include:
+**Next Steps and Further Improvements**<br>
+Given more time, potential improvements include:<br>
 	•	Implementing Named Entity Recognition (NER) techniques to better match payer names across different datasets<br>
 	•	Refine textual descriptions for each code to ensure consistency and remove unnecessary variations<br>
 	•	Refining plan names further for more precise payer-hospital linkages<br>
