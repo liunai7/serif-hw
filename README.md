@@ -3,7 +3,9 @@
 Overview
 
 This project focuses on analyzing, cleaning, and integrating healthcare pricing datasets to facilitate better payer-hospital comparisons. <br>
-The main objective is to standardize and merge multiple sources of pricing information while addressing data quality issues.
+The main objective is to standardize and merge multiple sources of pricing information while addressing data quality issues[^1].
+
+[^1]: [I used Serif Health Data Dictionary for reference.](https://help.serifhealth.com/article/19-data-dictionary)
 
 **Data Preprocessing and Cleaning**
 
