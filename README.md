@@ -5,7 +5,7 @@ Overview
 This project focuses on analyzing, cleaning, and integrating healthcare pricing datasets to facilitate better payer-hospital comparisons. <br>
 The main objective is to standardize and merge multiple sources of pricing information while addressing data quality issues.
 
-Data Preprocessing & Cleaning
+**Data Preprocessing & Cleaning**
 
 1. Data Quality Assessment <br>
 	•	Standardized text columns to lowercase to ensure uniformity and avoid duplicate variations<br>
@@ -17,7 +17,7 @@ Data Preprocessing & Cleaning
 	•	Ensured consistent formatting across datasets<br>
 	•	Investigated key identifier columns (e.g., payer names, billing codes, hospital IDs) to align formats<br>
 
-Data Integration and Merging
+**Data Integration and Merging**<br>
 	•	Identified common columns across datasets (payer names, code types, billing codes, and hospital IDs) to enable accurate merging<br>
 	•	Merged datasets while preserving the necessary pricing and hospital-related attributes<br>
 
